@@ -20,7 +20,7 @@ Here is some of the stuff I enjoy doing:
 </p>
     </td>
     <td>
-      <a href="https://github.com/nimanzik/Eadet-ConvNet.git" target="_blank"><img src="./model_2.png" width="1500" align="right"/></a>
+      <a href="https://github.com/nimanzik/Eadet-ConvNet.git" target="_blank"><img src="./model_2.png" width="1250" align="right"/></a>
     </td>
  </tr>
 </table>
