@@ -13,8 +13,6 @@ Here is some of the stuff I enjoy doing:
 - Exploratory data analysis
 - Bayesian statistics
 
-📫 You can reach me at: nima.nooshiri@gmail.com
-
 🔗 **I'm also on:**
 <p align="left">
   <a href="https://twitter.com/nimanzik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
@@ -22,7 +20,7 @@ Here is some of the stuff I enjoy doing:
 </p>
     </td>
     <td>
-      <a href="https://github.com/nimanzik/Eadet-ConvNet.git" target="_blank"><img src="./model_2.png" width="1700" align="right"/></a>
+      <a href="https://github.com/nimanzik/Eadet-ConvNet.git" target="_blank"><img src="./model_2.png" width="1500" align="right"/></a>
     </td>
  </tr>
 </table>
