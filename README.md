@@ -10,13 +10,15 @@ I'm a geophysicist with a focus on data science, deep learning and software deve
 
 🔗 **I'm also on:**
 <p align="left">
-  <a href="https://twitter.com/nimanzik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-  <a href=" www.linkedin.com/in/nima-nooshiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>
+  <a href="https://twitter.com/nimanzik" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+  <a href=" www.linkedin.com/in/nima-nooshiri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="30" /></a>
 </p>
 
 ---
 
-<img src="./model_2.png" width="75%" align="center" >
+<p>
+  <a href="https://github.com/nimanzik/Eadet-ConvNet.git" target="_blank"><img src="./model_2.png" width="75%" align="center"></a>
+</p>
 
 <!--
 **nimanzik/nimanzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
