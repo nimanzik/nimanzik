@@ -4,7 +4,7 @@
  <tr>
     <td>
 
-I'm a geophysicist with a focus on data science, deep learning and software development.
+I'm a computational geophysicist with a focus on data science, deep learning and software development.
 I mainly write codes using Python, PyTorch and Bash, and currently learning Julia.
 
 Here is some of the stuff I enjoy doing:
