@@ -7,7 +7,7 @@
 --->
 
 I'm an Earth-observation data scientist with extensive experience in programming, data analysis, signal processing and modelling.   
-I'm highly interested in using machine learning & deep learning powered models for actionable insights.   
+I'm highly interested in using machine learning- & deep learning-powered models for actionable insights.   
 I mainly write codes using Python, PyTorch and Bash, and currently learning Julia.
 
 Here is some of the stuff I enjoy doing:
