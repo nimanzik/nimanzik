@@ -6,7 +6,7 @@
     <td>
 --->
 
-I'm an applied deep-learning research scientist with expertise in earth and environmental sciences and extensive experience in programming, statistics, signal processing and modelling.   
+I'm a research data scientist with extensive experience in programming, statistics, signal processing and modelling.   
 I'm highly interested in using machine learning- and deep learning-powered models for actionable insights.   
 I mainly write codes using Python, PyTorch and Bash, and currently learning Julia.
 
