@@ -1,4 +1,4 @@
-### Hi there, I'm Nima 👋
+## Hey, I'm Nima
 
 <!---
 <table border="0">
