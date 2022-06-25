@@ -11,9 +11,9 @@ I'm highly interested in using machine learning- and deep learning-powered model
 I mainly write codes using Python, PyTorch and Bash, and currently learning Julia.
 
 Here is some of the stuff I enjoy doing:
+- Data modelling by inversion
 - Data visualization
 - Exploratory data analysis
-- Bayesian statistics
 
 🔗 **I'm also on:**
 <p align="left">
