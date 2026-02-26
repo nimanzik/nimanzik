@@ -5,9 +5,9 @@ I'm Nima, a Berlin-based Machine Learning Engineer and Developer specialising in
 🔗 Interested in collaborating or learning more? Let’s connect. I'm also on:
 
 <p align="left">
-  <a href="https://linkedin.com/in/nima-nooshiri/" target="_blank"><img align="center" src="icons/linkedin.svg" height="20" width="20" /></a>
+  <a href="https://linkedin.com/in/nima-nooshiri/" target="_blank"><img align="center" src="icons/linkedin.svg" height="25" width="25" /></a>
   &nbsp;
-  <a href="https://twitter.com/nimanzik" target="_blank"><img align="center" src="icons/twitter.svg" height="20" width="20" /></a>
+  <a href="https://twitter.com/nimanzik" target="_blank"><img align="center" src="icons/twitter.svg" height="25" width="25" /></a>
 </p>
 
 [
