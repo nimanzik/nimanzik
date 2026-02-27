@@ -3,12 +3,10 @@ Hi! 👋🏻
 I'm Nima, a Berlin-based Machine Learning Engineer and Developer specialising in digital signal processing, deep learning, and Python programming. I use modern ML frameworks and scalable computing tools (PyTorch, Ray etc.) to experiment, build, and deploy ML solutions that deliver measurable impact.
 
 🔗 Interested in collaborating or learning more? Let’s connect. I'm also on:
-
-<p align="left">
-  <a href="https://linkedin.com/in/nima-nooshiri/" target="_blank"><img align="center" src="icons/linkedin.svg" height="25" width="25" /></a>
-  &nbsp;
-  <a href="https://twitter.com/nimanzik" target="_blank"><img align="center" src="icons/twitter.svg" height="25" width="25" /></a>
-</p>
+&nbsp;
+<a href="https://linkedin.com/in/nima-nooshiri/" target="_blank"><img align="top" src="icons/linkedin.svg" height="25" width="25" /></a>
+&nbsp;
+<a href="https://twitter.com/nimanzik" target="_blank"><img align="top" src="icons/twitter.svg" height="25" width="25" /></a>
 
 [
   To add a comment, place text inside brackets followed by a colon, a space, and a pound (#) sign.
