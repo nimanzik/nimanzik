@@ -7,6 +7,8 @@ I'm Nima, a Berlin-based Machine Learning Engineer and Developer specialising in
 <a href="https://linkedin.com/in/nima-nooshiri/" target="_blank"><img align="top" src="icons/linkedin.svg" height="25" width="25" /></a>
 &nbsp;
 <a href="https://twitter.com/nimanzik" target="_blank"><img align="top" src="icons/twitter.svg" height="25" width="25" /></a>
+&nbsp;
+<a href="https://fosstodon.org/@nimanzik" target="_blank"><img align="top" src="icons/mastodon.svg" height="25" width="25" /></a>
 
 [
   To add a comment, place text inside brackets followed by a colon, a space, and a pound (#) sign.
